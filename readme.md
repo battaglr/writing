@@ -8,7 +8,7 @@ A collection of some of my thoughts.
 
 - [Improving HTML legibility when using multiple CSS classes](articles/2016-07-07__improving-html-legibility-when-using-multiple-css-classes.md)
   · *Jul 7*
-- [The `border` confusion](articles/2016-09-03_the-border-confusion.md)
+- [The `border` confusion](articles/2016-09-03__the-border-confusion.md)
   · *Sep 3*
 
 ## License
