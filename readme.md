@@ -10,6 +10,8 @@ A collection of some of my thoughts.
   · *Jul 7*
 - [The `border` confusion](articles/2016-09-03__the-border-confusion.md)
   · *Sep 3*
+- [Always test your assumptions](articles/2016-12-13__always-test-your-assumptions.md)
+  · *Dec 13*
 
 ## License
 
